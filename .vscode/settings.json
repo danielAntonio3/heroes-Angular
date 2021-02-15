@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dfd12d3f-bfe1-418b-ace6-4269944bd00b/resourceGroups/Prueba-fronend/providers/Microsoft.Web/sites/HeroesAngular",
+    "appService.deploySubpath": "dist\\super-herues"
+}
